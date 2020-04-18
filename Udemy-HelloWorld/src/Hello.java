@@ -12,7 +12,9 @@ public class Hello {
 		
 		int myTotal = myFirstNumber + mySecondNumber + myThirdNumber; // this variable will sum up the total 
 		
-		System.out.println(myTotal); // this line print out the variable from previous line.
+		int myLastOne = 1000 - myTotal;
+		
+		System.out.println(myLastOne); // this line print out the variable from previous line.
 		
 
 	}
