@@ -6,7 +6,7 @@ public class Hello {
 		
 		System.out.println("Hello, Abdul. "); // this line print the sentence inside the ()
 		
-		int myFirstNumber = 5; // declared a variable to int and set value to 5. 
+		int myFirstNumber = 10 + 5; // declared a variable to int and set value to 5. 
 		
 		System.out.println(myFirstNumber); // this line print out the variable from previous line.
 		
